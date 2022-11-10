@@ -1,4 +1,4 @@
-<h1 align="left">Andrew Apollo<img src="https://media.tenor.com/hj78T20udzkAAAAi/laugh-emoji-middle-finger.gif" width="40"></h1>
+<h1 align="left">Andrew Apollo</h1>
 
 <p align="left"><img src="https://media.tenor.com/GJn9KOiVQ7AAAAAC/dak-prescott.gif" width="500"/></p>
 
